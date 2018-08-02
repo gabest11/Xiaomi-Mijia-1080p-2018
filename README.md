@@ -12,3 +12,6 @@ After some wiggling it is out... The white back of the stand is not part of the 
 Better view of the stand. | ![](/teardown/IMG_20180802_195150.jpg)
 The SoC is an Ingenic T20. They switched from Grain Media 8135/6S to what the Dafang has. Winbond 25q128fvsq SPI flash. Chipstar CS8122S audio amp. The serial interface is next to the flash chip (Tx Rx GND GND N/A). I could not interrupt U-Boot by pressing a key. | ![](/teardown/IMG_20180802_174835.jpg)
 Realtek wifi on the other side and the IR leds. | ![](/teardown/IMG_20180802_175143.jpg)
+
+# TODO
+Hook up the flash chip and read the firmware...
