@@ -15,4 +15,4 @@ Realtek wifi on the other side and the IR leds. | ![](/teardown/IMG_20180802_175
 
 # TODO
 Hook up the flash chip and read the firmware...
-Update: CH341A with the v1.29 software does not seem to know how to read W25Q128JV.
+Update: CH341A with the v1.29 software does not seem to know how to read W25Q128JV. Recovery firmware available from the MI Home app, help section.
